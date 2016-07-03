@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ListSorter</string>
+    <string name="labelDescending">Descending</string>
+    <string name="labelAscending">Ascending</string>
+</resources>
